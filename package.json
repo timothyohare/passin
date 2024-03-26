@@ -6,7 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "ejs": "*",
     "passport": "~0.1.17",
     "connect-flash": "~0.1.1",
